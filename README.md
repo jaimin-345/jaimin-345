@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF722&center=true&vCenter=true&random=false&width=1000&lines=Hi+There%2C+I+am+React+Native+developer.;I+have+been+working+for+the+last+2+years+as+a+software+engineer.;Proficient+in+JavaScript+and+Typescript;Building+cross-platform+applications+that+marry+functionality+with+aesthetics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF722&center=true&vCenter=true&random=false&width=1000&lines=Hi+There%2C+I+am+full-stack+developer.;I+have+been+working+for+the+last+8+years+as+a+software+engineer.;Proficient+in+JavaScript+and+Typescript;Building+cross-platform+applications+that+marry+functionality+with+aesthetics.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./react-native.gif" alt="React Native" />
+  <img src="https://github.com/jaimin-345/jaimin-345/raw/main/react.gif" alt="React Native" />
 </p>
 
 <p align="center">
